@@ -20,14 +20,15 @@ A freelance marketplace focused on empowering freelancers first.
 - Building a cleaner alternative to traditional freelance websites
 
 ---
-
 ## 🛠️ Tech Stack & Tools
+- **Backend:** Laravel, PHP, Pest
+- **Frontend:** TailwindCSS, Alpine.js, Livewire
+- **AI & LLMs:** Integrating Ollama, local + cloud AI for CV parsing, transcription, job matching and assistants
+- **Cloud & DevOps:** AWS, GCP, GitHub Actions & CircleCI
+- **Databases:** PostgreSQL / MySQL
+- **Analytics:** Metabase / Google Analytics / MixPanel
+- **Monitoring:** Night watch / New relic
 
-**Backend:** Laravel, PHP, Pest
-**Frontend:** TailwindCSS, Preline UI, Alpine.js, Livewire
-**AI & LLMs:** Integrating Ollama, local + cloud AI for CV parsing, transcription, job matching, and assistants  
-**Cloud & DevOps:** AWS, multi-instance DB setups, tenancy, queues  
-**Databases:** MySQL / MariaDB  
 ---
 
 ## 💡 What I Care About  
@@ -59,6 +60,7 @@ A freelance marketplace focused on empowering freelancers first.
 
 ## 📫 Contact  
 **LinkedIn:** https://www.linkedin.com/in/abdelrahmanmoez/
+
 **Email:** abdelrahman.moez@icloud.com
 
 If you're building something meaningful—EdTech, SaaS, freelance tools, or creator platforms—I’m always open to connect.
