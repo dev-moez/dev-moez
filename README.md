@@ -70,3 +70,6 @@ If you're building something meaningful—EdTech, SaaS, freelance tools, or crea
 ⭐️ *If you like my work, follow me for more product-building updates.*
 
 <a href="https://u8views.com/github/dev-moez"><img src="https://u8views.com/api/v1/github/profiles/126246884/views/day-week-month-total-count.svg"></a>
+
+
+<figure><embed src="https://wakatime.com/share/@ec4a3cca-4217-446e-8b16-7ffb561f229d/3d0c33ba-f5fb-4efc-b9d6-712bb4c8c4dd.svg"></embed></figure>
